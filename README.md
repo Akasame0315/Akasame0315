@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hey there 👋
 
-# 👋 Hi, I'm XiaoHan (Akasame0315)
-
-Welcome to my GitHub profile!  
+I'm XiaoHan, Welcome to my GitHub profile!  
 I'm a passionate developer and always exploring new technologies and building fun projects. I enjoy solving problems with code and learning something new every day.
 
 ## 💡 About Me
