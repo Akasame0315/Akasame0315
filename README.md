@@ -14,7 +14,6 @@ Here are some of the projects I’m currently showcasing:
 
 ### 🛠️ Projects
 - **PythonProgram** — Python practice projects and utilities  
-- **LOLAutoOpenApp** — Python tool to automate app workflows  
 - **OpenGameAndThirdPrograms** — Game frameworks & helpers  
 - **ASP.Net** — Web-related coding practice with ASP.Net  
 - **htmlPractice** — Frontend HTML practice  
